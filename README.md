@@ -29,13 +29,13 @@ GIF created with ...
 
 
 ## Notes
+some challenges I encauter are the following: 
 
-Describe any challenges encountered while building the app.
-Understanding and implementing the sort function and destructuring.
-Dynamically appending DOM elements correctly.
-Formatting numbers using toLocaleString.
-Debugging missing images or broken data.
-Finding and using the correct secret keys.
+- Understanding and implementing the sort function and destructuring.
+- Dynamically appending DOM elements correctly.
+- Formatting numbers using toLocaleString.
+- Debugging missing images or broken data.
+- Finding and using the correct secret keys.
 ## License
 
     Copyright [2024] [Jose Huertero]
