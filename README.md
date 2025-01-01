@@ -17,7 +17,6 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 * [x] Added some CSS into some of the features of the website like text color and size.
-* [ ] 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
